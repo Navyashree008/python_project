@@ -1,0 +1,134 @@
+{
+   "user": [
+      {
+         "name": "kum",
+         "password": "a"
+      },
+      {
+         "name": "naya",
+         "password": "k"
+      },
+      {
+         "name": "navya",
+         "password": "n@11"
+      },
+      {
+         "name": "",
+         "password": ""
+      },
+      {
+         "name": "pranju",
+         "password": "p#44"
+      },
+      {
+         "name": "preeth",
+         "password": "p@11"
+      },
+      {
+         "name": "verni",
+         "password": "v@11"
+      },
+      {
+         "name": "ashok",
+         "password": "chaash@22"
+      },
+      {
+         "name": "aishu",
+         "password": "a#44"
+      },
+      {
+         "name": "raghu",
+         "password": "r#66"
+      },
+      {
+         "name": "kumar",
+         "password": "a"
+      },
+      {
+         "name": "aashu",
+         "password": "re@1"
+      },
+      {
+         "name": "asish",
+         "password": "ra@1"
+      },
+      {
+         "name": "arav",
+         "password": "av#1"
+      },
+      {
+         "name": "punnu",
+         "password": "p@11"
+      },
+      {
+         "name": "kushi",
+         "password": "k@11",
+         "profile": {
+            "description": "hi all",
+            "dob": "4 feb",
+            "hobbies": "bike riding",
+            "gender": "female"
+         }
+      },
+      {
+         "name": "lakshmi",
+         "password": "l",
+         "profile": {
+            "description": "lakshmi is from andhra",
+            "dob": "02-02-22222",
+            "hobbies": "volley ball",
+            "gender": "f"
+         }
+      },
+      {
+         "name": "navu",
+         "password": "n@11",
+         "profile": {
+            "description": "hi all",
+            "dob": "4 feb",
+            "hobbies": "singing",
+            "gender": "female"
+         }
+      },
+      {
+         "name": "caashu",
+         "password": "c@33",
+         "profile": {
+            "description": "hi all",
+            "dob": "dry",
+            "hobbies": "wry",
+            "gender": "wy"
+         }
+      },
+      {
+         "name": "par",
+         "password": "par@1",
+         "profile": {
+            "description": "pp",
+            "dob": "param",
+            "hobbies": "par",
+            "gender": "m"
+         }
+      },
+      {
+         "name": "dyf",
+         "password": "b@33",
+         "profile": {
+            "description": "srj",
+            "dob": "sryj",
+            "hobbies": "dt",
+            "gender": "tyj"
+         }
+      },
+      {
+         "name": "st",
+         "password": "b@33",
+         "profile": {
+            "description": "sth",
+            "dob": "jg",
+            "hobbies": "yr",
+            "gender": "yr"
+         }
+      }
+   ]
+}
