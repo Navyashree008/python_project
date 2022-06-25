@@ -40,7 +40,8 @@ while i < len(question_list):
         else:
             print("you have used your life line alredy")
     else:
-        if answer_input == solution_list[i]:
+         ans = int(answer_input)
+        if ans == solution_list[i]:
             print("yeh!,its correct lets move forward")
         else:
             print("sadly your answer is wrong")
